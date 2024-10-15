@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "ad1dff959d6dab47",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fc21b6410d3777a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "645c3ce7655fd206",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C-Programming/Passing by value or Passing by reference.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "202399f7880917ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "109eedae9ae228e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cee492c5be9787a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f26131fe2ed0314",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a10460b3690e43e3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 419.5
+  },
+  "right": {
+    "id": "1c79dbd8624b29eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f0fb8df83f1324e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d0219f346b90891",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C-Programming/Passing by value or Passing by reference.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fdf6142da34a142b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C-Programming/Passing by value or Passing by reference.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3441d5cd65b9d95",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "537b50711c470a82",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C-Programming/Passing by value or Passing by reference.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "645c3ce7655fd206",
+  "lastOpenFiles": [
+    "C-Programming/Array in C.md",
+    "C-Programming/Passing by value or Passing by reference.md",
+    "Programming/Programming Paradigm.md",
+    "Programming",
+    "opensource-project/linc(linear model in c)/Notes.md",
+    "opensource-project/linc(linear model in c)/2024-10-08.md",
+    "opensource-project/linc(linear model in c)/Todos.md",
+    "todo.md",
+    "opensource-project/Untitled.md",
+    "opensource-project/linc(linear model in c)",
+    "C-Programming/todo.md",
+    "opensource-project",
+    "C-Programming/Untitled",
+    "Untitled.canvas",
+    "C-Programming/2024-10-08.md",
+    "test_vault/Welcome.md",
+    "test_vault",
+    "Untitled.md",
+    "C-Programming",
+    "2024-05-27.md",
+    "OptiAlgo/Workflow.md",
+    "OptiAlgo/Text Preprocessing.md",
+    "Excalidraw/Drawing 2024-05-10 13.07.52.excalidraw.md",
+    "OptiAlgo",
+    "Excalidraw/name.md",
+    "Excalidraw/Untitled.md",
+    "Excalidraw",
+    "2024-05-05.md",
+    "Todolist.md"
+  ]
+}
