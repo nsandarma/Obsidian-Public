@@ -2,5 +2,6 @@
   "rightToLeft": false,
   "foldIndent": true,
   "readableLineLength": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "alwaysUpdateLinks": true
 }
