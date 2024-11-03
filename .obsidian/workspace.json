@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "High Performance Computing/CUDA.md",
+                "file": "High Performance Computing/Grid and Block Dimensions (CUDA).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CUDA"
+              "title": "Grid and Block Dimensions (CUDA)"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-Programming/Flag in GCC.md",
+                "file": "High Performance Computing/Grid and Block Dimensions (CUDA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Flag in GCC"
+              "title": "Backlinks for Grid and Block Dimensions (CUDA)"
             }
           },
           {
@@ -164,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,21 +179,22 @@
   },
   "active": "e934d0a5a93bca1b",
   "lastOpenFiles": [
-    "High Performance Computing/OpenCL.md",
     "High Performance Computing/CUDA.md",
-    "C-Programming/Flag in GCC.md",
+    "High Performance Computing/CUDA Driver API.md",
+    "High Performance Computing/Grid and Block Dimensions (CUDA).md",
+    "High Performance Computing/OpenCL.md",
+    "C-Programming/Passing by value or Passing by reference.md",
+    "Programming/Process vs Threads.md",
     "Programming/System Programming.md",
+    "C-Programming/Flag in GCC.md",
     "Programming/Big O Notation.md",
     "Programming/Programming Paradigm.md",
     "Programming/Assembly.md",
     "Programming/GIT.md",
-    "Programming/Process vs Threads.md",
     "Excalidraw/Drawing 2024-10-22 06.39.18.excalidraw.md",
     "Excalidraw/Drawing 2024-10-22 06.35.00.excalidraw.md",
     "Excalidraw",
-    "High Performance Computing/Untitled.md",
     "C-Programming/Static & Dynamic Library.md",
-    "C-Programming/Passing by value or Passing by reference.md",
     "Programming/big_o_notation.png",
     "High Performance Computing",
     "Pasted image 20241017210034.png",
@@ -218,7 +218,6 @@
     "test_vault",
     "Untitled.md",
     "C-Programming",
-    "2024-05-27.md",
     "OptiAlgo"
   ]
 }

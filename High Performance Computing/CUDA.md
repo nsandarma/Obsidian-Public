@@ -117,3 +117,20 @@ Dengan menggunakan CUDA, aplikasi yang melibatkan komputasi intensif seperti mac
 
 - **Gunakan `nvcc`** jika Anda memiliki kernel CUDA yang stabil dan tidak perlu dimodifikasi pada runtime, dan Anda ingin performa eksekusi yang optimal.
 - **Gunakan `nvrtc`** jika Anda perlu fleksibilitas dalam mendefinisikan atau mengoptimalkan kernel CUDA berdasarkan kondisi runtime atau masukan pengguna, atau jika Anda perlu men-generate kernel CUDA secara dinamis.
+
+
+# Perbedaan cuda.h dengan libcuda.so
+
+`cuda.h` dan `libcuda` adalah dua komponen penting dalam pemrograman CUDA, tetapi mereka memiliki peran dan fungsi yang berbeda:
+
+1. **cuda.h**:
+   - Ini adalah file header (header file) yang berisi definisi dan deklarasi fungsi serta tipe data yang digunakan dalam pemrograman CUDA.
+   - File ini termasuk dalam toolkit CUDA dan digunakan untuk menyertakan API CUDA dalam kode sumber Anda. Dengan menyertakan `cuda.h`, Anda dapat mengakses berbagai fungsi untuk mengelola perangkat, memori, dan kernel CUDA.
+   - Anda biasanya menggunakan `#include <cuda.h>` dalam kode C atau C++ untuk mengakses fungsionalitas CUDA.
+
+2. **libcuda**:
+   - Ini adalah pustaka (library) dinamis yang berisi implementasi aktual dari fungsi-fungsi yang didefinisikan dalam `cuda.h`.
+   - Pustaka ini biasanya terletak di direktori instalasi toolkit CUDA dan digunakan oleh linker saat Anda mengkompilasi program CUDA Anda. Anda akan menghubungkan aplikasi Anda dengan `libcuda` saat mengkompilasi untuk memastikan semua panggilan fungsi CUDA dapat dieksekusi.
+   - Saat menggunakan compiler, Anda biasanya akan menambahkan opsi `-lcuda` untuk menghubungkan pustaka ini.
+
+Singkatnya, `cuda.h` adalah untuk deklarasi fungsi (header file), sedangkan `libcuda` adalah untuk implementasi fungsi tersebut (pustaka yang digunakan pada saat kompilasi).
